@@ -1,0 +1,4 @@
+C:\Programming Projects\Learning C++\Basic GUI Calculator\x64\Debug\Basic GUI Calculator.vcxproj.AssemblyReference.cache
+C:\Programming Projects\Learning C++\Basic GUI Calculator\x64\Debug\Basic GUI Calculator.exe
+C:\Programming Projects\Learning C++\Basic GUI Calculator\x64\Debug\BasicGUICalculator.Calculator.resources
+C:\Programming Projects\Learning C++\Basic GUI Calculator\x64\Debug\Basic GUI Calculator.vcxproj.GenerateResource.cache
